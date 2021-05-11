@@ -1,0 +1,10 @@
+﻿
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: Georgia, serif;}
+.menu {display: none}
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: blueviolet;
+  min-height: 90%;
+}
