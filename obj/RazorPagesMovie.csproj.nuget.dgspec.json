@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Function-Of-Beauty\\RazorPagesMovie.csproj": {}
+    "D:\\Api Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Function-Of-Beauty\\RazorPagesMovie.csproj": {
+    "D:\\Api Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Function-Of-Beauty\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\Api Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\GitHub\\Function-Of-Beauty\\RazorPagesMovie.csproj",
+        "projectPath": "D:\\Api Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Function-Of-Beauty\\obj\\",
+        "outputPath": "D:\\Api Project\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

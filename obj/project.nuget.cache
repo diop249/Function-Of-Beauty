@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4M9sfwrmoN+YlXRJIBeuSs3MUWY31iiPkV0fajbfBgvJaGm3wG+1f/4yf24ykZ/4x88VgCIBtdzjrxPfq9pZmw==",
+  "dgSpecHash": "61Ku9XV12lyBof4TCYbdLY6mOudzwS/XLADpyxt/UoTZzvw9HfxwukMRtZWdPPV95cD6oBIJPwJQNlnC762XSA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Function-Of-Beauty\\RazorPagesMovie.csproj",
+  "projectFilePath": "D:\\Api Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.9\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.9.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
